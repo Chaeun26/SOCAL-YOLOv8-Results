@@ -48,5 +48,5 @@ The model was retrained for 50 epochs on Google Colab using an NVIDIA T4 GPU wit
 - Training took 2.515 hours for 50 epochs, significantly faster than the CPU training (82 hours).
 - The model still struggles with rare classes like `scalpel` and `drill`, but performance improved slightly due to better training dynamics.
 
-### References
+#### References
 - Smith, J. (2021). *Simulated Outcomes following Carotid Artery Laceration* [Data set]. Figshare. Available at: [https://figshare.com/articles/dataset/Simulated_Outcomes_following_Carotid_Artery_Laceration/15132468?file=34458218](https://figshare.com/articles/dataset/Simulated_Outcomes_following_Carotid_Artery_Laceration/15132468?file=34458218)
